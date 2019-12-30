@@ -39,9 +39,6 @@ import com.raizlabs.android.dbflow.structure.database.transaction.Transaction;
 import com.weatherapp.ApiService.APIClient;
 import com.weatherapp.ApiService.APIInterfacesRest;
 import com.weatherapp.WeatherModel.Example;
-import com.weatherapp.WeatherModel.Main;
-
-import java.util.List;
 
 import retrofit2.Call;
 import retrofit2.Callback;
